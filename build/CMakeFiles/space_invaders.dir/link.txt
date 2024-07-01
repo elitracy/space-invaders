@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/space_invaders.dir/main.cpp.o -o space_invaders  /usr/lib/libraylib.so -L/usr/lib -lraylib

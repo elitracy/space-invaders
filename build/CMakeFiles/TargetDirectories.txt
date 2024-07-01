@@ -1,0 +1,3 @@
+/home/elias/Documents/projects/space_invaders/build/CMakeFiles/space_invaders.dir
+/home/elias/Documents/projects/space_invaders/build/CMakeFiles/edit_cache.dir
+/home/elias/Documents/projects/space_invaders/build/CMakeFiles/rebuild_cache.dir
