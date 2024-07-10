@@ -1,5 +1,6 @@
 [ ] Fix invader movement
-[ ] Shoot stuff
-[ ] Score box
+[x] Shoot stuff
+[x] Score box
 [ ] Death screen
+[ ] Win screen
 
